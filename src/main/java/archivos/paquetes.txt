@@ -1,0 +1,16 @@
+2
+Guadalajara
+Ciudad de Mexico
+800.0
+3
+China
+Japon
+789.0
+1
+Zapopan
+Hidalgo
+123.5
+4
+Rusia
+Canada
+20.1
